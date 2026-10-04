@@ -1,19 +1,27 @@
-# Zion App Network — Interlinks
+# Zion AI App Network — Interlinks
 
-Churn Prediction AI is part of the **Zion App Network** by Zion Tech Group — a constellation of interconnected AI applications.
+**Batch 74: Customer Experience & Retention AI** (Oct 4, 2026)
 
-## Explore the network
-- [Zion App Network Hub](https://ziontechgroup.com/zion-app-network/)
-- [Zion Tech Group Homepage](https://ziontechgroup.com/)
-- [Sales Forecast AI](https://ziontechgroup.com/sales-forecast-ai/)
-- [Lead Scoring AI](https://ziontechgroup.com/lead-scoring-ai/)
-- [Pipeline Insights AI](https://ziontechgroup.com/pipeline-insights-ai/)
-- [Pricing Optimizer AI](https://ziontechgroup.com/pricing-optimizer-ai/)
-- [Deal Desk AI](https://ziontechgroup.com/deal-desk-ai/)
-- [CS Escalation Radar](https://ziontechgroup.com/cs-escalation-radar/)
-- [Support Copilot AI](https://ziontechgroup.com/support-copilot-ai/)
-- [Plans & Pricing](https://ziontechgroup.com/en/plans/)
-- [AI Discovery](https://ziontechgroup.com/discovery/)
+## This app
+- Churn Prediction AI — https://ziontechgroup.com/churn-prediction-ai/
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+## Batch 74 sibling apps
+- Customer Feedback Analyzer — https://ziontechgroup.com/customer-feedback-analyzer/ | https://github.com/Zion-support/customer-feedback-analyzer
+- NPS Insight Copilot — https://ziontechgroup.com/nps-insight-copilot/ | https://github.com/Zion-support/nps-insight-copilot
+- Onboarding Journey Optimizer — https://ziontechgroup.com/onboarding-journey-optimizer/ | https://github.com/Zion-support/onboarding-journey-optimizer
+- Support Sentiment Radar — https://ziontechgroup.com/support-sentiment-radar/ | https://github.com/Zion-support/support-sentiment-radar
+- Loyalty Program Optimizer — https://ziontechgroup.com/loyalty-program-optimizer/ | https://github.com/Zion-support/loyalty-program-optimizer
+
+## Related network apps
+- AI Assessment Engine — https://ziontechgroup.com/ai-assessment-engine/
+- Vendor Onboarding Copilot — https://ziontechgroup.com/vendor-onboarding-copilot/
+
+## Free Discovery (always online, always free)
+https://ziontechgroup.com/discovery/ — fill the questionnaire, get your AI discovery results instantly. Results are also emailed to you and to our commercial team (commercial@ziontechgroup.com).
+
+## Network hub
+- Hub repo: https://github.com/Zion-support/zion-app-network
+- Network index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
+- Homepage: https://ziontechgroup.com
+
+© 2026 Zion Tech Group
